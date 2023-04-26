@@ -21,7 +21,7 @@ Here is the breakdown of the files in this repository:
 - `11_die.pl`: This file covers the `die` function in Perl.
 - `12_while.pl`: This file covers the `while` loop in Perl.
 - `13_forEach.pl`: This file covers the `foreach` loop in Perl.
-- `countWordLen.pl`: This file contains a program that counts the length of each word in a given sentence.
+- `countWordLen.pl`: This file contains a program that counts the length of a word that the users types in cmd.
 - `tic-tac-toe.pl`: This file contains a simple command-line version of the Tic Tac Toe game.
 
 And so on for the remaining files in the repository.

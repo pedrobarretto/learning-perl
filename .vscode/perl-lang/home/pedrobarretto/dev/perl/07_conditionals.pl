@@ -1,0 +1,1 @@
+{"version":5,"vars":[{"kind":2,"line":0,"containerName":"","name":"strict"},{"kind":2,"line":1,"containerName":"","name":"warnings"}]}
